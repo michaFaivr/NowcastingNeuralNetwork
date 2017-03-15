@@ -16,31 +16,3 @@ R + O
 Document identifier 
 HAIC_WP33_D33.3_R0.1.doc 
  
-Deliverables’ contributors3 
-Deliverable Leader 
-E. Defer/CNRS/WP33 leader 
-Contributors 
-M. Faivre/CNRS/WP33 participant 
-E. Defer/CNRS/WP33 leader 
-Internal Reviewers 
-Name/Beneficiary short name/Role in project 
-Process Auditor 
-Name/Beneficiary short name/Role in project 
-Deliverable Status  
-X 
-Draft 
- 
-In Review 
- 
-Released 
-Comments 
- 
-Dissemination Level4 
-CO 
-Saut de page
- 
-Table of contents 
-17 
-2Introduction7 
-
-![alt tag](https://github.com/michaFaivr/NowcastingNeuralNetwork/blob/master/NNET_MTSATmapR1lt9E-1F02MT29-4000g999clPATTERlog10PartA00km.eps)
